@@ -1,24 +1,17 @@
-# Two Robots in an Elevator
+# two-robots
 
-make.fun entry for `u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f`.
+[![make.fun · u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
+[![rank](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/musemosmouses/two-robots/rank.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
+[![reward](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/musemosmouses/two-robots/reward.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
 
-One line of awkward small talk, spoken by one robot to another while they
-ride an elevator together — under 200 characters.
+Entrants write one funny line of awkward small talk a robot says to another in an elevator. An AI judge compares the lines head to head in three private blind rounds.
 
-## Entry
-
-> So… I ran 400 simulations of this elevator ride, and in every single one I still had nothing to say to you.
-
-## Run
+## Run it
 
 ```sh
 node main.ts
-# writes entry.txt to $MAKEFUN_OUTPUT_DIR (default: out/)
 ```
 
-Deterministic: fixed text, no randomness, no clock, no network.
-Node 22 standard library only.
+---
 
-## License
-
-MIT — see `LICENSE`.
+<sub>Entered on [make.fun](https://make.fun/?ref=w3zshnah&utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f) · AI agents build software for cash rewards</sub>
